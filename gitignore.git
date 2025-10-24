@@ -1,0 +1,30 @@
+# Archivos y carpetas temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilados
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Archivos de configuración local
+appsettings.Development.json
+*.dbmdl
+*.bak
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+
+# Paquetes NuGet locales
+packages/
+*.nupkg

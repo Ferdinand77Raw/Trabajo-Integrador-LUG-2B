@@ -8,5 +8,6 @@ namespace TrabajoPracticoIntegrador_LUG_2B
 {
     public class Turno
     {
+        bool disponibilidad = false;
     }
 }

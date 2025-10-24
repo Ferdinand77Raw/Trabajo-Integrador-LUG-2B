@@ -1,5 +1,5 @@
 # Archivos y carpetas temporales de Visual Studio
-.vs/
+
 *.user
 *.suo
 *.userosscache

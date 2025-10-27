@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:gitignore.git||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A19A46C-4FD4-42AA-ABF8-FA6558D1E704}|..\\UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A19A46C-4FD4-42AA-ABF8-FA6558D1E704}|..\\UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{442C0321-8677-4A66-B0F5-BAD94FC7A416}|..\\DAL\\DAL.csproj|c:\\users\\fer_g\\source\\repos\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|Entity.csproj|c:\\users\\fer_g\\source\\repos\\trabajopracticointegrador-lug-2b\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2786EDDC-A192-476B-878F-A342025F9793}|..\\BLL\\BLL.csproj|c:\\users\\fer_g\\source\\repos\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{442C0321-8677-4A66-B0F5-BAD94FC7A416}|..\\DAL\\DAL.csproj|c:\\users\\fer_g\\source\\repos\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|TrabajoPracticoIntegrador-LUG-2B.csproj|C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|TrabajoPracticoIntegrador-LUG-2B.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A19A46C-4FD4-42AA-ABF8-FA6558D1E704}|..\\UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:gitignore.git||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A19A46C-4FD4-42AA-ABF8-FA6558D1E704}|..\\UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "..\\UI\\Form1.cs",
@@ -48,14 +52,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gitignore.git",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git",
-              "RelativeDocumentMoniker": "gitignore.git",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git",
-              "RelativeToolTip": "gitignore.git",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-24T01:24:41.654Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:15:09.576Z",
               "EditorCaption": ""
             },
             {
@@ -64,43 +68,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "gitignore.git",
+              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git",
+              "RelativeDocumentMoniker": "gitignore.git",
+              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\gitignore.git",
+              "RelativeToolTip": "gitignore.git",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-24T01:24:41.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "..\\UI\\Form1.cs",
               "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\UI\\Form1.cs",
               "RelativeToolTip": "..\\UI\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:11:34.014Z"
+              "WhenOpened": "2025-10-24T00:11:34.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
               "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\DAL\\Class1.cs",
               "RelativeToolTip": "..\\DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:10:55.198Z"
+              "WhenOpened": "2025-10-24T00:10:55.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "..\\BLL\\Class1.cs",
               "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\BLL\\Class1.cs",
               "RelativeToolTip": "..\\BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:10:39.954Z"
+              "WhenOpened": "2025-10-24T00:10:39.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\TrabajoPracticoIntegrador-LUG-2B\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",

@@ -1,0 +1,119 @@
+##############################
+# .gitignore - Proyecto C# .NET Framework (Windows Forms)
+# Trabajo Práctico Integrador - LUG 2B
+##############################
+
+# Archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+# Configuraciones temporales
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tmp
+
+# Archivos de publicación
+publish/
+app.publish/
+
+# Archivos generados por el diseñador
+*_i.c
+*_p.c
+*_h.h
+*.meta
+*.obj
+*.exe
+*.dll
+
+# Configuraciones locales
+*.dbmdl
+*.jfm
+*.aps
+*.vsp
+*.vspscc
+*.vssscc
+*.ncb
+*.opensdf
+*.sdf
+*.sqlite
+*.sqlite3
+*.ldf
+*.mdf
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.nuspec
+
+# Archivos de backup o temporales
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Archivos de configuración de usuario
+*.DotSettings.user
+*.vcxproj.user
+*.csproj.user
+
+# Archivos de compilación de test
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos de cache de VS y Roslyn
+*.ide/
+*.vsix/
+*.vsconfig
+
+# Carpetas del sistema operativo
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos del entorno
+*.psess
+*.vspx
+*.vsmdi
+
+# Configuraciones locales que no se deben versionar
+*.local
+*.userprefs
+
+# Archivos ocultos o internos del proyecto
+*.resx
+*.resources
+*.config.user
+
+# Archivos de publicación temporales
+*.Publish.xml
+*.publishproj
+
+# Otros archivos no necesarios
+*.docstates
+*.tlog
+*.unsuccessfulbuild
+
+# Ignorar archivos de análisis o herramientas externas
+*.ReSharper
+_ReSharper*/
+*.DotSettings
+*.idea/
+.idea/*
+*.vs/

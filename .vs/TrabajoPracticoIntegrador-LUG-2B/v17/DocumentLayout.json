@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\",
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\trabajo-integrador-lug-2b\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|c:\\users\\fer_g\\source\\repos\\trabajo-integrador-lug-2b\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|Entity.csproj|c:\\users\\fer_g\\source\\repos\\trabajo-integrador-lug-2b\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|Entity.csproj|C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|Entity.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|TrabajoPracticoIntegrador-LUG-2B.csproj|C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|TrabajoPracticoIntegrador-LUG-2B.csproj|C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D13DC4-70BE-4EC1-A520-BA92EB638A0D}|TrabajoPracticoIntegrador-LUG-2B.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4315BC9-B773-4B03-88E7-F0B8DB3DC66B}|DAL\\DAL.csproj|c:\\users\\fer_g\\source\\repos\\trabajo-integrador-lug-2b\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|c:\\users\\fernando\\documents\\proyectos\\trabajo-integrador-lug-2b\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A782BBB2-CE34-4767-A4CC-14D00D6A2C55}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4315BC9-B773-4B03-88E7-F0B8DB3DC66B}|DAL\\DAL.csproj|C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4315BC9-B773-4B03-88E7-F0B8DB3DC66B}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EDFD3A-1082-4E2C-AA23-0A1F0A776A9C}|BLL\\BLL.csproj|c:\\users\\fer_g\\source\\repos\\trabajo-integrador-lug-2b\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4EDFD3A-1082-4E2C-AA23-0A1F0A776A9C}|BLL\\BLL.csproj|C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EDFD3A-1082-4E2C-AA23-0A1F0A776A9C}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,44 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
-              "RelativeDocumentMoniker": "UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
-              "RelativeToolTip": "UI\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T02:32:24.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
-              "RelativeDocumentMoniker": "UI\\Form1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T02:31:56.716Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,10 +52,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:32:24.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:31:56.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,27 +90,35 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\DAL\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\DAL\\Class1.cs",
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T02:29:35.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T02:29:35.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\BLL\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Fer_G\\source\\repos\\Trabajo-Integrador-LUG-2B\\BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\Proyectos\\Trabajo-Integrador-LUG-2B\\BLL\\Class1.cs",
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T02:28:58.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T02:28:58.297Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
